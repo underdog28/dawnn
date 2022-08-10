@@ -1,0 +1,159 @@
+body{
+   background-color: #76BA99;
+}
+#title{
+   background-color: #76BA99;
+text-align: center;
+padding: 1% 15%;
+}
+#footer{
+   background-color: #fff;
+  text-align: center;
+  color: #000;
+   font-family: 'Josefin Sans', sans-serif;
+
+}
+#about{
+   background-color: #76BA99;
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+#navbar{
+   font-family: 'Josefin Sans', sans-serif;
+ background-color: #76BA99;
+}
+#Menu{
+   background-color: #76BA99;
+   font-family: 'Josefin Sans', sans-serif;
+   padding-top: 7%;
+   padding-bottom: 7%;
+}
+h1{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+     text-align: center;
+     color: #fff;
+}
+#dawnn{
+  margin : 13px 0px 0px 0px;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+ background-color: #76BA99;
+ font-weight: lighter;
+ padding-top: 3%;
+ color: #fff;
+ font-size: 2rem;
+}
+#we{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+   background-color: #76BA99;
+   padding-bottom: 3%;
+   color: #fff;
+}
+#hours{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+ background-color: #76BA99;
+}
+#about{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #fff;
+}
+#Info{
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+   font-family: 'Josefin Sans', sans-serif;
+}
+.xxx{
+    font-family: 'Josefin Sans', sans-serif;
+   text-align: left;
+   height: 10%;
+
+}
+ .waffle-img{
+  position: relative;
+ }
+ .milk-img{
+  position: relative;
+}
+.input-group{
+  margin : 5px 250px 5px 250px;
+}
+.brand{
+  font-size: 2rem;
+  font-weight: lighter;
+}
+div{
+  background-color: #76BA99;
+}
+#our-special{
+  background-color: #000;
+}
+.food1{
+  margin-top: 30%;
+  color: #fff;
+}
+.food2{
+  margin-top: 30%;
+  color: #fff;
+}
+.pricing{
+  margin-top: 30%;
+  text-align: justify;
+  color: #fff;
+}
+#nani{
+  background-color: #76BA99;
+}
+.Time{
+  text-align: left;
+  color: #fff;
+}
+.Address{
+  text-align: left;
+  padding-bottom: 5%;
+  color: #fff;
+}
+.chef{
+  margin-top: 20%;
+}
+.send{
+    margin-top: 29%;
+}
+@media (max-width : 500px) {
+  .chef{
+    margin-top: 0%;
+  }
+  .send{
+      margin-top: 0%;
+  }
+  .Time{
+    text-align: center;
+  }
+  .Address{
+    text-align: center;
+  }
+  .food1{
+    margin-top: 0%;
+  }
+  .food2{
+    margin-top: 0%;
+  }
+  .pricing{
+    margin-top: 3%;
+    text-align: center;
+  }
+  .form-control{
+    font-size: 1rem;
+  }
+}
+.fa-brands{
+  margin: 20px 10px;
+}
+.h5{
+  text-align: center;
+}
